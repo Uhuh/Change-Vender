@@ -30,7 +30,7 @@ class ChangeForm extends React.Component {
         <div>
           <header>
             <p>
-              Silly change caluclator
+              Change Machine
             </p>
           </header>
         </div>
